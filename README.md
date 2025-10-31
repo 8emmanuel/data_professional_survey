@@ -1,5 +1,5 @@
 # data_professional_survey
-This is the first Power BI project I was able to complete with the help of online learning from Alex the Analyst and his YouTube tutorials. During the course I learned how to do the following:
+This is the first Power BI project I was able to complete with the help of online teaching from Alex the Analyst and his YouTube tutorials. During the course I learned how to do the following:
 
 - Importing and transforming raw data using Power Query
 - Cleaning and shaping datasets
